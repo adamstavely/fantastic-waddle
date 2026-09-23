@@ -1,0 +1,3 @@
+I reworked the tone throughout: the email now opens as an invitation to discuss, credits what the current model does well, frames every problem as a property of structure rather than people, softens absolute claims, and adds a section on risks and open questions for the proposed model. I also removed lines that could read as a dig, such as "it is our willingness to change," and changed the subject line so it doesn't imply anyone is doing things wrong.
+
+The Risks and open questions section will likely do the most for credibility: naming the weaknesses yourself signals this is analysis, not advocacy. It's a long email, so if you'd rather keep the body short, the evidence and applicability sections would work well as a one-page attachment alongside the two figures.
