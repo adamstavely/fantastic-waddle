@@ -1,0 +1,1 @@
+Attach the two figures below: Figure 1 shows the Team Topologies model with its interaction modes, and Figure 2 shows our proposed structure. I left the quote unattributed because it's commonly credited to several people and none of those attributions is verified.
